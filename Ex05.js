@@ -1,0 +1,1 @@
+//Escreva uma função que receba uma string e retorne quantas vogais (a, e, i, o, u) ela contém.
